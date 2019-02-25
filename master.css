@@ -1,0 +1,22 @@
+* {
+    font-family: 'Podkova', serif;
+}
+
+body {
+    margin: auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+mark {
+    padding: 2px 30px;
+}
+
+hr {
+    width: 60%;
+}
+
+::selection, mark {
+    background-color: black;
+    color: white;
+}
